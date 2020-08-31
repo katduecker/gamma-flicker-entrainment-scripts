@@ -1,2 +1,2 @@
-# freqtag_entrainment
+# gamma flicker entrainment
 Analysis scripts
