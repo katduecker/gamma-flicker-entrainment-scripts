@@ -16,8 +16,8 @@
 %             Center for Human Brain Health
 
 function a2_preprocessing(s, BATCH)
+%INPUT: s: subject ID, BATCH: sample (3: experiment, 1-2: PILOT)
 
-%clear all; close all; clc;
 ft_defaults;
 MAINPATH = '/rds/projects/2018/jenseno-entrainment/';
 PATHIN = fullfile(MAINPATH,'subjects',['Batch_',num2str(BATCH)]);

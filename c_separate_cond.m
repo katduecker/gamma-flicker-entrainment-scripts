@@ -20,6 +20,7 @@
 
 function c_separate_cond(s, BATCH)
 
+%INPUT: s: subject ID, BATCH: sample (3: experiment, 1-2: PILOT)
 % settings
 MAINPATH = '/rds/projects/2018/jenseno-entrainment';
 ft_defaults;
