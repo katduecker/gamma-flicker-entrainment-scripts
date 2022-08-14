@@ -30,3 +30,10 @@ This repository contains all scripts developed for the analysis of Magnetoenceph
 ### Phase analysis
 11. (n) calculate phase difference between MEG sensors and photodiode
 12. (n2) algorithm to find plateaus
+
+## Statistical analysis in R
+
+1. statistics: ANOVA on power at IGF before and during flicker, for flicker frequencies above and below IGF
+2. Linear Model fit to power and coherence as a function of frequency
+3. PCA_MNI: principal component analysis of peak MNI coordinates of gamma oscillations and flicker response in conditions "flicker" and "flicker&grating";
+comparison of coordinates along first principal component
