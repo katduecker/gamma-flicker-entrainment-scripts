@@ -1,4 +1,4 @@
-# PhD project 1: entrainment of neuronal gamma oscillations using rapid frequency tagging
+# Entrainment of neuronal gamma oscillations using Rapid Frequency Tagging
 
 This repository contains all scripts developed for the analysis of Magnetoencephalography (MEG) data for [Duecker et al., 2021, J Neurosci](https://www.jneurosci.org/content/41/31/6684.abstract).
 
